@@ -13,7 +13,7 @@
     size: 80%;
     text-align: center;
 
-    padding-top: 5%;
+    padding-top: 20px;
 }
 
 #h1-1 {
@@ -26,22 +26,67 @@
     color: white;
 }
 
-#input-1 {
+.input-1 {
     padding: 10px;
     border-radius: 10px;
     border: none;
     background-color: red;
     color: white;
-    font-size: 40px;
+    font-size: 30px;
 
 }
 
 .flexible1 {
-    margin-left: 40%;
+    margin-left: 35%;
     display: flex;
-    box-shadow: 20px 10px;
+
 }
 
 .margin {
+    background-color: aliceblue;
     margin: 20px 10px;
+    border: 30px 10px;
+    width: 100px;
+
+    text-align: center;
+    border-radius: 10px;
+}
+
+#tk {
+    background-color: rgb(231, 219, 219);
+    border: 2px solid red;
+    margin: 20px 10px;
+    border: 30px 10px;
+    width: 100px;
+
+    text-align: center;
+    border-radius: 10px;
+}
+
+#d-t {
+    text-align: center;
+
+}
+
+#h1-2 {
+    font-size: 40px;
+}
+
+#p2 {
+    font-size: 20px;
+}
+
+#s2 {
+    margin-top: 5%;
+}
+
+#input {
+    text-align: center;
+    margin: 2%;
+    margin-left: 25%;
+    width: 50%;
+    border: 0;
+    border-bottom: 0.5px solid rgb(165, 154, 154);
+
+    font-size: 20px;
 }
